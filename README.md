@@ -1,10 +1,8 @@
 # Maze-Puzzle-Game
 A puzzle written in C code with a command line 2-D map
 
-Gave preview
+Game preview
 
-Wins
+Wins prints out a "congratulations" message
 
-Lose
-
-Try again
+Lose - Program asks user to try again or leave the gam
